@@ -6,6 +6,7 @@ We at [FASRC](https://www.rc.fas.harvard.edu/research-software-engineering-rse/)
 
 We are planning our first Harvard RSE workshop for 2021, and we hope to see you there. We'll send the announcement for the first event to the community mailing list.
 
+## Join Harvard RSE
 Join the Harvard RSE Community (including the Slack channel and the mailing list) [here](https://forms.gle/4YTvdgiP1p7zfwb66).
 
 Best,  
